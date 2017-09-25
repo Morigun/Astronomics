@@ -1,0 +1,8 @@
+C:\MyDOC\Проекты\C#\Developer\Astronomics\Astronomics\bin\Debug\Astronomics.exe
+C:\MyDOC\Проекты\C#\Developer\Astronomics\Astronomics\bin\Debug\Astronomics.pdb
+C:\MyDOC\Проекты\C#\Developer\Astronomics\Astronomics\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDOC\Проекты\C#\Developer\Astronomics\Astronomics\obj\Debug\Astronomics.MainForm.resources
+C:\MyDOC\Проекты\C#\Developer\Astronomics\Astronomics\obj\Debug\GenerateResource.read.1.tlog
+C:\MyDOC\Проекты\C#\Developer\Astronomics\Astronomics\obj\Debug\GenerateResource.write.1.tlog
+C:\MyDOC\Проекты\C#\Developer\Astronomics\Astronomics\obj\Debug\Astronomics.exe
+C:\MyDOC\Проекты\C#\Developer\Astronomics\Astronomics\obj\Debug\Astronomics.pdb
